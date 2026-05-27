@@ -28,4 +28,5 @@ int main()
     } while (nUser != nRandom);
     cout << "Ganaste, advinaste el numero: " << nRandom << endl;
     
+    return 0;
 }

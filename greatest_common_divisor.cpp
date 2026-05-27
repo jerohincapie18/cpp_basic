@@ -16,6 +16,8 @@ int main()
     //n1 = -4;
     //n2 = 14;
     cout << "El mayor comun divisor es: " <<gcd(n1,n2) << endl;
+
+    return 0;
 }
 
 int gcd(int a, int b)
